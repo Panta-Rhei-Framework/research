@@ -1,2 +1,1 @@
-# research
-Contributor-facing research workspace for paper sources, notebooks, scripts, and exploratory materials.
+# Panta Rhei Research\n\nContributor-facing research workspace for paper sources, notebooks, scripts, and exploratory materials.\n
