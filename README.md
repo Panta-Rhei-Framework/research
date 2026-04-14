@@ -19,8 +19,8 @@ It is the place for evolving paper sources, notebooks, scripts, exploratory mate
 - the official release-facing formalization surface
 
 For those, see:
-- 📄 https://github.com/Panta-Rhei-Framework/papers
-- 🧮 https://github.com/Panta-Rhei-Framework/formalization
+- 📄 https://github.com/Panta-Rhei-Research/papers
+- 🧮 https://github.com/Panta-Rhei-Research/formalization
 - 🌌 https://panta-rhei.site
 
 ## Why this repo exists
