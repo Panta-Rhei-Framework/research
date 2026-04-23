@@ -1,31 +1,23 @@
-# 🧪 research
+# Research
 
-This repository is the **active contributor-facing research workspace** around the **Panta Rhei framework**.
+This repository is the public research workspace for **open notebooks, scripts, supplementary analyses, and exploratory materials**.
 
-It is the place for evolving paper sources, notebooks, scripts, exploratory materials, and research-oriented contribution flow.
+It is the right place for research-oriented work that can happen in the open without being mistaken for the final public release surface.
 
 ## What lives here
 
-- paper source material
 - notebooks and computational experiments
-- scripts and data-adjacent helpers
-- exploratory topic folders
-- research-oriented issues, discussions, and pull requests
+- reproducible scripts
+- supplementary analyses for released public material
+- exploratory topic folders intended to remain public
+- research-oriented issues and pull requests
 
-## What does not live here
+## Related public surfaces
 
-- the official release-facing public papers surface
-- the canonical Atlas source of truth
-- the official release-facing formalization surface
-
-For those, see:
-- 📄 https://github.com/Panta-Rhei-Research/papers
-- 🧮 https://github.com/Panta-Rhei-Research/formalization
-- 🌌 https://panta-rhei.site
-
-## Why this repo exists
-
-The framework needs an open research workspace where supporting materials and new technical lines can evolve without being mistaken for the final public release surfaces.
+- Publications: https://github.com/Panta-Rhei-Research/publications
+- TauLib: https://github.com/Panta-Rhei-Research/taulib
+- Website: https://panta-rhei.site
+- Community: https://github.com/Panta-Rhei-Research/community
 
 ## Contribution
 
@@ -33,16 +25,9 @@ Contributions are welcome.
 
 Good contributions here include:
 
-- improved paper source material
-- carefully scoped notebooks
-- reproducible scripts
-- topic-oriented research folders
+- improved notebooks
+- reproducible analysis scripts
+- carefully scoped exploratory folders
 - structured issue threads around concrete research questions
 
 Start with `CONTRIBUTING.md`.
-
-## Discussion routing
-
-- broad community discussion → `community`
-- formal implementation work → `taulib`
-- official public papers surface → `papers`
